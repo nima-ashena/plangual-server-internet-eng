@@ -1,0 +1,8 @@
+{
+   "editor.formatOnSave": true,
+   "editor.formatOnPaste": false,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "cSpell.words": ["plangual", "Shamsi", "vocabs"],
+   "editor.tabSize": 3,
+   "typescript.suggest.autoImports": true
+}
